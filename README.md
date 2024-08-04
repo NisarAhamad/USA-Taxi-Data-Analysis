@@ -1,4 +1,4 @@
-# IA626 Taxi data analysis - Nisar
+# USA Taxi data analysis - Nisar
 
  ### Introduction
  In this analysis we will use Taxi dataset which contains the information about the rides in New York City.
